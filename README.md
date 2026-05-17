@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vibhu Gupta
 - 👀 I’m interested in Data Analytics 
 - 🌱 I’m currently learning Python 
-- 📫 How to reach me vibhugupta261220@gamil.com
+- 📫 How to reach me vibhugupta9125@gamil.com
 - 😄 Pronouns: Vibhu 
 - LinkedIn: https://www.linkedin.com/in/vibhu-gupta01
 
